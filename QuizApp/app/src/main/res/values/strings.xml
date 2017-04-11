@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- Title of the Quiz -->
+    <string name="tittle">Spain Quiz</string>
+
+    <!-- Question 1 -->
+    <string name="question1">1. With what countries does Spain border?</string>
+
+
+
+</resources>
